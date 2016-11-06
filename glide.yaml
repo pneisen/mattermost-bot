@@ -1,0 +1,6 @@
+package: github.com/pneisen/mattermost-bot
+import:
+- package: github.com/mattermost/platform
+  version: master
+  subpackages:
+  - model
